@@ -1,0 +1,8 @@
+{
+  "name": "Portal Desa Gunosari - Tlogosari Bondowoso",
+  "description": "Sistem Informasi Desa Gunosari, Kec. Tlogosari, Kab. Bondowoso: Pendaftaran Warga, Pemetaan Alamat Rumah di Peta, Aduan Real-Time, Pembagian Pajak Daerah, dan Keuangan APBDes.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
